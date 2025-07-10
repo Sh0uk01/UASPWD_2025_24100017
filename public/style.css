@@ -33,6 +33,14 @@ section {
 .tutor-card:hover {
   transform: scale(1.05);
 }
+.tutor-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
 
 form input,
 form textarea {
